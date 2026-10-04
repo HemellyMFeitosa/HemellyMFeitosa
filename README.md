@@ -11,9 +11,9 @@ o problema de negócio antes de escrever código.
 Python · n8n · SQL · JavaScript/Node.js · Supabase · AWS · LLMs e Agentes de IA
 
 ### 📚 Formação
-- Bacharel em Sistemas de Informação — Fametro (2026)
-- Pós-graduação em Engenharia de Software em IA — UNIPDS (em andamento)
-- Agentes Autônomos (Agentic AI) — FIAP · Tópicos em Machine Learning — FGV
+- Bacharel em Sistemas de Informação - Fametro (2026)
+- Pós-graduação em Engenharia de Software em IA - UNIPDS (em andamento)
+- Agentes Autônomos (Agentic AI) - FIAP · Tópicos em Machine Learning - FGV
 
 ### 🚧 Em construção
 Estou publicando aqui versões de demonstração das automações e agentes
